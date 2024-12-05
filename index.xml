@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>groundedsparrowblog</title>
+    <link>https://groundedsparrow.github.io/</link>
+    <description>Recent content on groundedsparrowblog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Dec 2024 21:08:39 +0200</lastBuildDate>
+    <atom:link href="https://groundedsparrow.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A story</title>
+      <link>https://groundedsparrow.github.io/posts/blog/</link>
+      <pubDate>Wed, 04 Dec 2024 21:08:39 +0200</pubDate>
+      <guid>https://groundedsparrow.github.io/posts/blog/</guid>
+      <description>&lt;p&gt;Let me set the record straight. After twenty-seven years with the Woodland Building Department (WBD), I’ve seen every construction shortcut and code violation imaginable. But nothing—and I mean nothing—compares to the infamous Three Pigs incident of 2023. The media had a field day with it, of course. “Big Bad Wolf Terrorizes Innocent Homeowners!” Please. I enforced the International Building Code, 2021 Edition, with local woodland amendments.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
